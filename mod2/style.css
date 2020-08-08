@@ -25,7 +25,7 @@ body{background-color:ivory;
   background-color:#999999;
   margin: 20px;
   padding: 10px;
-  border: 2px solid #000;
+  border: 1px solid #000;
   word-wrap: break-word;
      
 }
@@ -36,8 +36,8 @@ body{background-color:ivory;
   right: 0px;
   background: green; 
   padding: 4px 40px;
-  border-left: 2px solid #000;
-  border-bottom: 2px solid #000;
+  border-left: 1px solid #000;
+  border-bottom: 1px solid #000;
   font-size: 120%;
   font-weight: bold;
 	
