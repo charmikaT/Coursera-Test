@@ -1,0 +1,145 @@
+/* Base Styles */
+
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+	font-family: Brushstroke, fantasy;
+	color: #322C26;
+	font-size:40px;
+	padding-top: 10px
+}
+
+body {
+	
+	background-color: #D0D3CF;
+
+}
+
+p {
+	padding: 10px;
+	margin: 0;
+}
+
+.container {
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+section {
+	border:	1px solid black;
+	background-color: ivory;
+	width: 100%;
+	height: auto;
+	font-family: Helvetica;
+	color: black;
+	position: relative;
+	overflow: hidden;
+}
+
+#chicken {
+	border-left: 1px solid #000;
+    border-bottom: 1px solid #000;
+	text-align: center;
+	width: 30%;
+	margin-left: 72%;
+	font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+	background-color: #F5A492;
+}
+
+#beef {
+	border-left: 1px solid #000;
+    border-bottom: 1px solid #000;
+	text-align: center;
+	width: 30%;
+	margin-left: 72%;
+	font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+	background-color: #F9AE70;
+}
+
+#sushi {
+	border-left: 1px solid #000;
+    border-bottom: 1px solid #000;
+	text-align: center;
+	width: 30%;
+	margin-left: 72%;
+	font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	background-color: #9EEE97;
+	padding: 5px;
+}
+
+#chicken-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#beef-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#sushi-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.navbar-brand {
+  font-size: 2em;
+  border: 0 0 10px 10px;
+  color: #FFFFFF;
+}
+
+#header-nav {
+  border: 0;
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #FDFEFE;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.nav-header button.hover {
+  
+}
+
+.nav-brand {
+  color: #FFFFFF;
+  font-size: 1.5em;
+}
+
+#nav-list {
+  color: white;
+}
+
+hr {
+  border-color: white;
+}
+
+.item {
+  color: white;
+  font-size: 1.2em;
+}
